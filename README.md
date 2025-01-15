@@ -7,9 +7,6 @@
 <li>
   Grab HTML input 💁
 </li> 
-  <li>
-    Implement logic 🤓
-  </li>
   <li>Make the API call 📲</li> 
   <li>Handle any errors ⤴️ 😿</li>
   <li>Return response body 🐐</li>
